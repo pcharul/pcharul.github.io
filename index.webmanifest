@@ -2,8 +2,8 @@
   "name": "Charul Paliwal",
   "short_name": "Charul Paliwal",
   "lang": "en-us",
-  "theme_color": "rgb(233, 133, 180)",
-  "background_color": "rgb(233, 133, 180)",
+  "theme_color": "rgb(250, 170, 180)",
+  "background_color": "rgb(250, 170, 180)",
   "icons": [{
     "src": "/images/icon_hu12297da27be7ab01c2dfd27190676930_120534_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
