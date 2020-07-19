@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Charul Paliwal</title>
-    <link>https://github.com/pcharul.github.io/authors/</link>
-      <atom:link href="https://github.com/pcharul.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Charul 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/pcharul.github.io/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
       <title>Authors</title>
-      <link>https://github.com/pcharul.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
   </channel>

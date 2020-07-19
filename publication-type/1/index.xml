@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Charul Paliwal</title>
-    <link>https://github.com/pcharul.github.io/publication-type/1/</link>
-      <atom:link href="https://github.com/pcharul.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Charul 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/pcharul.github.io/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
       <title>1</title>
-      <link>https://github.com/pcharul.github.io/publication-type/1/</link>
+      <link>/publication-type/1/</link>
     </image>
     
     <item>
       <title>Online Variational Bayesian Subspace Filtering</title>
-      <link>https://github.com/pcharul.github.io/publication/8683775/</link>
+      <link>/publication/8683775/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/pcharul.github.io/publication/8683775/</guid>
+      <guid>/publication/8683775/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To each route its own ETA: A generative modeling framework for ETA prediction</title>
-      <link>https://github.com/pcharul.github.io/publication/8917465/</link>
+      <link>/publication/8917465/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/pcharul.github.io/publication/8917465/</guid>
+      <guid>/publication/8917465/</guid>
       <description></description>
     </item>
     

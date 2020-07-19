@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U. Bhatt | Charul Paliwal</title>
-    <link>https://github.com/pcharul.github.io/author/u.-bhatt/</link>
-      <atom:link href="https://github.com/pcharul.github.io/author/u.-bhatt/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/u.-bhatt/</link>
+      <atom:link href="/author/u.-bhatt/index.xml" rel="self" type="application/rss+xml" />
     <description>U. Bhatt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Charul 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/pcharul.github.io/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
       <title>U. Bhatt</title>
-      <link>https://github.com/pcharul.github.io/author/u.-bhatt/</link>
+      <link>/author/u.-bhatt/</link>
     </image>
     
     <item>
       <title>Online Variational Bayesian Subspace Filtering</title>
-      <link>https://github.com/pcharul.github.io/publication/8683775/</link>
+      <link>/publication/8683775/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/pcharul.github.io/publication/8683775/</guid>
+      <guid>/publication/8683775/</guid>
       <description></description>
     </item>
     
