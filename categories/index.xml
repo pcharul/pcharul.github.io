@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Charul Paliwal</title>
-    <link>https://charul.com/categories/</link>
-      <atom:link href="https://charul.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://paliwalcharul.com/categories/</link>
+      <atom:link href="https://paliwalcharul.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Charul 2020</copyright>
     <image>
-      <url>https://charul.com/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
+      <url>https://paliwalcharul.com/images/logo_hu2dca5f15a971ee01ed77024d202a7717_460290_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://charul.com/categories/</link>
+      <link>https://paliwalcharul.com/categories/</link>
     </image>
     
   </channel>
